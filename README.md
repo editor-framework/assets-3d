@@ -6,16 +6,17 @@ Free 3d assets for 3d application.
 
 ### Models
 
+ - http://artisaverb.info/PBT.html
+ - http://graphics.cs.brown.edu/games/brown-mesh-set/
+ - http://graphics.cs.williams.edu/data/meshes.xml
  - http://graphics.stanford.edu/data/3Dscanrep/
  - http://hdri.cgtechniques.com/~sponza/files/
- - http://graphics.cs.williams.edu/data/meshes.xml
  - http://www.crytek.com/cryengine/cryengine3/downloads
+ - https://github.com/MirageYM/3DModels
+ - https://github.com/keijiro/ThreeDScans
+ - https://github.com/lighttransport/lighttransportequation-orb
  - https://github.com/pissang/dota2hero
  - https://github.com/pissang/qtek-bootcamp/tree/gh-pages/assets
- - http://graphics.cs.brown.edu/games/brown-mesh-set/
- - http://artisaverb.info/PBT.html
- - https://github.com/keijiro/ThreeDScans
- - https://github.com/MirageYM/3DModels
 
 ### Materials
 
@@ -27,6 +28,6 @@ Free 3d assets for 3d application.
 
 ### Environment Maps
 
- - http://www.hdrlabs.com/sibl/archive.html
  - http://gl.ict.usc.edu/Data/HighResProbes/
  - http://www.custommapmakers.org/skyboxes.php
+ - http://www.hdrlabs.com/sibl/archive.html
