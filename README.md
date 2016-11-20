@@ -30,4 +30,5 @@ Free 3d assets for 3d application.
 
  - http://gl.ict.usc.edu/Data/HighResProbes/
  - http://www.custommapmakers.org/skyboxes.php
+ - http://www.hdri-hub.com/
  - http://www.hdrlabs.com/sibl/archive.html
